@@ -7,7 +7,7 @@ Free cloud-hosted builds from AutiTech LLC. Downloads continue to work when the 
 | Platform | Version | Download |
 | --- | --- | --- |
 | Windows x64 | 1.8.1 | [Installer](https://github.com/ChazK86/retro-library-downloads/releases/download/protected-source-2026-11-04/Retro-Library-Setup-1.8.1.exe) |
-| Android ARM64 | 1.0.1 preview | [APK](https://github.com/ChazK86/retro-library-downloads/releases/download/protected-source-2026-11-04/retro-library-1.0.1-android-arm64-preview.apk) |
+| Android ARM64 | 1.0.1 | [APK](https://github.com/ChazK86/retro-library-downloads/releases/download/protected-source-2026-11-04/retro-library-1.0.1-android-arm64.apk) |
 | Linux x86_64 desktop | 1.0.1 preview | [Flatpak](https://github.com/ChazK86/retro-library-downloads/releases/download/linux-protected-v1.0.1/retro-library-1.0.1-linux-x86_64.flatpak) |
 | Linux aarch64 | 1.0.1 mobile preview | [Flatpak](https://github.com/ChazK86/retro-library-downloads/releases/download/linux-protected-v1.0.1/retro-library-1.0.1-linux-aarch64.flatpak) |
 

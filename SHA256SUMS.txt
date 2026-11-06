@@ -1,4 +1,4 @@
 2e2d101dfa467746f384b1beea6208048893e2f101b1c438f91ca01fa1421def  Retro-Library-Setup-1.8.1.exe
-bee5b7680866e1a413db4b7455671c3b30fb2827a243619ac3b265e84df50402  retro-library-1.0.1-android-arm64-preview.apk
+bee5b7680866e1a413db4b7455671c3b30fb2827a243619ac3b265e84df50402  retro-library-1.0.1-android-arm64.apk
 d16339a2ba5ab9806954ac5440879d5a57d1215640b941029e8eae6c8cd3d353  retro-library-1.0.1-linux-x86_64.flatpak
 fbd471fad137dd2bc78a5e10c393b6e328728443e550e1b2f656a0d0969deb22  retro-library-1.0.1-linux-aarch64.flatpak

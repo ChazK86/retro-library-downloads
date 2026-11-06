@@ -16,10 +16,10 @@
   "android": {
     "version": "1.0.1",
     "versionCode": 2,
-    "label": "Android preview",
-    "url": "https://github.com/ChazK86/retro-library-downloads/releases/download/protected-source-2026-11-04/retro-library-1.0.1-android-arm64-preview.apk",
+    "label": "Android download",
+    "url": "https://github.com/ChazK86/retro-library-downloads/releases/download/protected-source-2026-11-04/retro-library-1.0.1-android-arm64.apk",
     "releaseUrl": "https://github.com/ChazK86/retro-library-downloads/releases/tag/protected-source-2026-11-04",
-    "filename": "retro-library-1.0.1-android-arm64-preview.apk",
+    "filename": "retro-library-1.0.1-android-arm64.apk",
     "bytes": 30707180,
     "size": "31 MB",
     "requirements": "Android 10+ · ARM64",
@@ -28,7 +28,7 @@
     "sha256": "bee5b7680866e1a413db4b7455671c3b30fb2827a243619ac3b265e84df50402",
     "signingCertificateSha256": "c576708cf6259080065c7418e5a1c104eed7858801ec177cf19d4295d7d411f7",
     "buildDate": "2026-11-04",
-    "channel": "Debug-signed development preview"
+    "channel": "Development-signed Android build"
   },
   "linuxDesktop": {
     "version": "1.0.1",
